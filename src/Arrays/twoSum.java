@@ -19,7 +19,7 @@ public class twoSum {
          }// outer for loop
         if(!found){
             System.out.println("target not found");
-            
+
         }
 
 
